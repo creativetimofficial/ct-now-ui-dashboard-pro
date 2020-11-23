@@ -1,3 +1,9 @@
+<a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf-readme-2020">
+<img border="0" alt="Creative Tim Black Friday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/bf-github-banner.png" >
+</a>
+
+
+
 # [Now UI Dashboard PRO](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/dashboard.html?ref=nudpro-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=https%3A%2F%2Fdemos.creative-tim.com%2Fnow-ui-dashboard-pro%2Fexamples%2Fdashboard.html%20%20Now%20UI%20Dashboard%20PRO%20is%20a%20premium%20bootstrap%20dashboard%20%E2%9D%A4%EF%B8%8F&source=webclient)
 
 ![version](https://img.shields.io/badge/version-1.5.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
